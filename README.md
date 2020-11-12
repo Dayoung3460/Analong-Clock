@@ -1,2 +1,2 @@
 # Analong-Clock
-<img src="screenshot.png" width="500" height="451">
+<img src="screenshot.png" width="450" height="406">
