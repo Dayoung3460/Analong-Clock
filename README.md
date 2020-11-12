@@ -1,4 +1,2 @@
 # Analong-Clock
-
-#### 🕐🕗🕞👾
-<img src="screenshot.png">
+<img src="screenshot.png" width="500" height="451">
